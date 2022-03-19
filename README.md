@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JuicyLemons
+- 👀 I’m interested in JavaScript, Lua, Python and PHP
+- 🌱 I’m currently learning Lua and PHP
+- 🤝 I’m looking for collaborators for my Roblox project
+- 📫 You can reach me on Discord: Not Venti#3248
