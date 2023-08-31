@@ -1,5 +1,5 @@
-- 👋 Hi, I’m JuicyLemons
-- 👀 I’m interested in JavaScript, Lua, Python and PHP
+- 👋 Hi, I’m Echo
+- 👀 I’m interested in C#, C++, Lua, Python and PHP
 - 🌱 I’m currently learning Lua and PHP
-- 🤝 I’m looking for collaborators for a Roblox project
-- 📫 You can reach me on Discord: Not Venti#3248
+- 🤝 I’m looking for roblox developers
+- 📫 You can reach me on Discord: echo_inf
